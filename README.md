@@ -64,7 +64,7 @@ An **advanced PDF conversion tool** for seamless file transformations.
 ---
 
 ## 🌟 Let's Connect!  
-- 🌐 [Portfolio](https://alexmavlin.github.io)  
+<!-- - 🌐 [Portfolio](https://alexmavlin.github.io)  -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-mavlin-5517a6334/)  
 
 ---
