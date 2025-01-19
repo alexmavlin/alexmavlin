@@ -21,6 +21,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Non-relational Databases](https://img.shields.io/badge/Non--Relational%20DB-4caf50?style=for-the-badge&logo=database&logoColor=white)
+![System Analysis](https://img.shields.io/badge/System%20Analysis-0078D4?style=for-the-badge&logo=microsoftaccess&logoColor=white)
+![Database Architecting](https://img.shields.io/badge/DB%20Architecting-000000?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
