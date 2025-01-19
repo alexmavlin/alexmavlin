@@ -19,22 +19,17 @@ I am a **proactive Full-Stack Web Developer** with over **3 years of experience*
 
 ## 🏆 Key Projects  
 
-### **[SAPHIO](#)**  
+### **SAPHIO**  
 A **cloud-based intranet and client management system** for UK clinics.  
 - Tech Stack: **Laravel 10**, **ReactJS**, Google Cloud  
-- Implemented CI/CD pipelines for seamless updates and scalability.  
+- Implemented CI/CD pipelines for seamless updates and scalability.   
 
-### **Stul App**  
-A **coworking space booking platform** with real-time updates.  
-- Tech Stack: **Laravel 10**, Payment Gateway Integration  
-- Architected backend systems and built dynamic interfaces.  
-
-### **Wizmeek**  
+### **[Wizmeek](https://wizmeek.com/)**  
 A platform empowering **RAP & R’n’B performers** with content-rich features.  
 - Tech Stack: **Laravel 11**, **ReactJS**  
 - Delivered robust integrations and automated workflows.  
 
-### **PDF Candy**  
+### **[PDF Candy](https://pdfcandy.com/)**  
 An **advanced PDF conversion tool** for seamless file transformations.  
 - Tech Stack: **PHP**, **Node.js**  
 - Developed efficient algorithms for reliable and fast processing.  
@@ -49,7 +44,7 @@ An **advanced PDF conversion tool** for seamless file transformations.
 
 ## 🌟 Let's Connect!  
 - 🌐 [Portfolio](https://alexmavlin.github.io)  
-- 💼 [LinkedIn](https://linkedin.com/in/alexmavlin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-mavlin-5517a6334/)  
 
 ---
 
